@@ -1,0 +1,15 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[display]
+width = 960
+height = 640
+
+[script]
+shared_state = 1
+
+[gamedistribution]
+game_id = YOUR_GAME_ID
+
+[project]
+dependencies = https://github.com/GameDistribution/gd-defold/archive/main.zip
